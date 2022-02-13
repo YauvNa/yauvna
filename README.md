@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yauvna
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Bachelor's of Computer Science.
